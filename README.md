@@ -1,1 +1,1 @@
-# Face-Recognition-Based-Attendance-System
+# Paddy-Disease-Diagnosis-System
