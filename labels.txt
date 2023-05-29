@@ -1,0 +1,10 @@
+0 Healthy
+1 Tungro
+2 Hispa
+3 Bacterial leaf Blight
+4 Bacterial Leaf streak
+5 Bacterial Panicle Blight
+6 Blast
+7 Brown spot
+8 Dead Heart
+9 Downy mildew
